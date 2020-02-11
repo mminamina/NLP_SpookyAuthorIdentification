@@ -1,2 +1,2 @@
-## NLP SpookyAuthorIdentification
+## NLP Spooky Author Identification
 NLP Spooky Author Identification with XGB
