@@ -6,11 +6,17 @@ https://www.kaggle.com/c/spooky-author-identification
 
 ### Steps
 Data Processing (unique words, characters, stopwords, punctuations, words average length)
+
 Author Mapping
+
 TfidfVectorizer
+
 CountVectorizer
+
 MultinomialNB
+
 TruncatedSVD
+
 XGBoost
 
 #### Packages Used
