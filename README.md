@@ -19,7 +19,7 @@ TruncatedSVD
 
 XGBoost
 
-#### Packages Used
+#### Packages 
 Python, NLTK, XGBoost, Sklearn
 
 LICENSE: This project is licensed under the terms of the MIT license.
